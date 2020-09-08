@@ -25,7 +25,7 @@ passLength = parseInt(prompt("Choose a password length between 8-128 charectors"
 // Each line includes possible selection with each of the four options being added or subtracted from it.
 
 if (passLength < 8 || passLength > 128) {
-    alert("Please choose a whole number between 8 and 128 charectors");
+    prompt("Please choose a whole number between 8 and 128 charectors");
 }
 if (confirm("Would you like to use upper case letters?")) {
     possibleSelection = possibleSelection + upperCase 
