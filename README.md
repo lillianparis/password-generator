@@ -15,3 +15,5 @@ answered the user must select if they want upper case letters, lower case letter
 answered the user must select if they want upper case letters, lower case letter, numbers and/or special charectors. Once all the questions are completed, the user is given a password that meets the critera from their responses.
 Employers want interactive pages that are also secure and user friendly, this 
 page is meant to showcase the creators javascript knowledge and logic. 
+
+Deployed: https://lillianparis.github.io/password-generator/
