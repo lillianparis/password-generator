@@ -1,23 +1,4 @@
-# Password Generator
-# Table of Contents 
-
-*[Description](#description) 
-
-*[Installation](#Installation) 
-
-*[contribution](#contribution) 
-
-*[test](#test) 
-
-*[username](#username) 
-
- *[email](#email) 
-
-*[licenses](#licenses) 
-
-*[images](#images) 
-
-*[Contact](#Contact) 
+# The Password Generator
 
 
 ## Description
